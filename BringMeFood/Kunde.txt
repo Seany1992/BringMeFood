@@ -1,0 +1,9 @@
+Kundendaten
+Vorname: sdf
+Nachname: dsdf
+Straﬂe: Sierichstrasse
+Nr.: 3
+PLZ: 22312
+Ort: Hamburg
+Tel: 423874857487534873
+Schokoladen Pizza M 7.9 Ä
